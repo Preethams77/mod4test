@@ -1,0 +1,90 @@
+body{
+    background-color: white;
+}
+.one{
+    position:absolute;
+width: 912px;
+height: 160px;
+left: 90px;
+top: 1px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 121px;
+
+color:black;
+background-color: white;
+
+
+}
+.box{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1200px;
+height: 900px;
+left: 90px;
+top: 300px;
+
+border: 2px solid black;
+background-color: white;
+
+}
+.two{
+    width: 669.46px;
+height: 74px;
+left: 144px;
+top: 398px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color:black;
+background-color: white;
+
+}
+.cel{
+    box-sizing: border-box;
+
+position: absolute;
+width: 42px;
+height: 42px;
+left: 90px;
+top: 250px;
+
+border: 1px solid #000000;
+border-radius: 5px;
+background-color: white;
+
+
+}
+.Fah{
+    box-sizing: border-box;
+
+position: absolute;
+width: 42px;
+height: 42px;
+left: 447px;
+top: 250px;
+
+background: #000000;
+border: 1px solid #000000;
+border-radius: 5px;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+
+
+
+}

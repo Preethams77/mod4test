@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&display=swap'); 
+body{
+    background-color: #000000;
+}
+
+.top{
+  position: absolute;
+width: 692.27px;
+height: 144px;
+left: 390px;
+top: 1px;
+font-family:'DM Sans';
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 121px;
+
+color: #FFFFFF;
+
+
+}
+.bottom{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1150px;
+    height: 50px;
+    left: 126px;
+    top: 250px;
+    border: 1px solid #FFFFFF;
+    background-color: black;
+    color: #FFFFFF;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+padding: 10px;
+
+}
+.bottom >input{
+    position: absolute;
+width: 321px;
+height: 29px;
+left: 159px;
+top: 323px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+}
+.button{
+    position: absolute;
+    width: 260.75px;
+    height: 58px;
+     left: 126px;
+     top: 335px;
+     background: #FFFFFF;
+     font-family: 'Inter';
+     
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
